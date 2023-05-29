@@ -1,5 +1,5 @@
 {
-  "name": "prettier-vscode-client",
+  "name": "prettier-language-server-vscode-client",
   "version": "1.0.0",
   "license": "MIT",
   "author": {

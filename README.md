@@ -1,1 +1,1 @@
-# prettier-vscode-client
+# prettier-language-server-vscode-client
