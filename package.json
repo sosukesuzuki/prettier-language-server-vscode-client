@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "vscode-languageclient": "^8.1.0",
-    "prettier-vscode-server": "file:../prettier-vscode-server"
+    "prettier-language-server": "file:../prettier-language-server"
   }
 }

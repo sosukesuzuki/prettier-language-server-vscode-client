@@ -1,1 +1,1 @@
-require("prettier-vscode-server").createPrettierLanguageServer();
+require("prettier-language-server").createPrettierLanguageServer();
