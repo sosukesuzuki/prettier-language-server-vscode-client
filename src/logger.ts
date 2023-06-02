@@ -10,7 +10,7 @@ type LogLevel = (typeof logLevels)[keyof typeof logLevels];
 
 export class Logger {
   private outputChannel = window.createOutputChannel(
-    "VSCE_DOC_FORMATTING_SAMPLE"
+    "PRETTIER_LANGUAGE_SERVER_VSCODE_CLIENT"
   );
 
   public logInfo(message: string) {
